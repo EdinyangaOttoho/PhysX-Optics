@@ -1,0 +1,25 @@
+C:\Users\ZUCKY\AppData\Local\Temporary Projects\OPTICS\bin\Debug\OPTICS.exe.config
+C:\Users\ZUCKY\AppData\Local\Temporary Projects\OPTICS\bin\Debug\OPTICS.exe
+C:\Users\ZUCKY\AppData\Local\Temporary Projects\OPTICS\bin\Debug\OPTICS.pdb
+C:\Users\ZUCKY\AppData\Local\Temporary Projects\OPTICS\bin\Debug\OPTICS.xml
+C:\Users\ZUCKY\AppData\Local\Temporary Projects\OPTICS\obj\Debug\OPTICS.Form1.resources
+C:\Users\ZUCKY\AppData\Local\Temporary Projects\OPTICS\obj\Debug\OPTICS.Resources.resources
+C:\Users\ZUCKY\AppData\Local\Temporary Projects\OPTICS\obj\Debug\OPTICS.vbproj.GenerateResource.Cache
+C:\Users\ZUCKY\AppData\Local\Temporary Projects\OPTICS\obj\Debug\OPTICS.exe
+C:\Users\ZUCKY\AppData\Local\Temporary Projects\OPTICS\obj\Debug\OPTICS.xml
+C:\Users\ZUCKY\AppData\Local\Temporary Projects\OPTICS\obj\Debug\OPTICS.pdb
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\OPTICS\OPTICS\bin\Debug\OPTICS.exe.config
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\OPTICS\OPTICS\obj\Debug\OPTICS.exe
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\OPTICS\OPTICS\obj\Debug\OPTICS.xml
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\OPTICS\OPTICS\obj\Debug\OPTICS.pdb
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\OPTICS\OPTICS\bin\Debug\OPTICS.exe
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\OPTICS\OPTICS\bin\Debug\OPTICS.pdb
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\OPTICS\OPTICS\bin\Debug\OPTICS.xml
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\OPTICS\OPTICS\obj\Debug\OPTICS.Form1.resources
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\OPTICS\OPTICS\obj\Debug\OPTICS.Resources.resources
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\OPTICS\OPTICS\obj\Debug\OPTICS.vbproj.GenerateResource.Cache
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\OPTICS\OPTICS\obj\Debug\OPTICS.Form2.resources
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\OPTICS\OPTICS\bin\Debug\OPTICS.exe.manifest
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\OPTICS\OPTICS\bin\Debug\OPTICS.application
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\OPTICS\OPTICS\obj\Debug\OPTICS.exe.manifest
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\OPTICS\OPTICS\obj\Debug\OPTICS.application
